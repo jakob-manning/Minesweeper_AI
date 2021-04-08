@@ -1,5 +1,5 @@
 # Minesweeper_AI
-Minesweeper + Propositional Logic + inference = a simple minesweeper AI
+Minesweeper + propositional logic + some inference = a simple minesweeper AI
 
 _runner.py_ and _class Minesweeper()_ were provided by class, all other work is my own
 
